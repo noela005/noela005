@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on front end web development, data analytics and so on.
 - 📫 How to reach me nehioma@gmail.com
 - 😄 Pronouns: Her/She
-- ⚡ Fun fact: I'm a student.
+- ⚡ Fun fact: I'm a computer systems technology student @ Keyano College.
 
 <!---
 noela005/noela005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
